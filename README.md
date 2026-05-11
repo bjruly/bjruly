@@ -71,9 +71,6 @@ before moving on to more complex mechanics and systems.
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bjruly&theme=tokyo-night&hide_border=true&area=true&custom_title=bjruly%27s%20Contribution%20Graph)](https://github.com/bjruly)
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bjruly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=bjruly%27s%20Stats"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=bjruly&theme=tokyonight&hide_border=true"/>
-
 ---
 
 ## Contact
