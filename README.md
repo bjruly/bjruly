@@ -1,15 +1,13 @@
-<div align="center">
-
 # [bjruly (Trần Lê Gia Bảo)](https://github.com/bjruly)
 
+<div align="center">
 <img src="https://media.giphy.com/media/bw6rNitkD4o16WP5mF/giphy.gif" width="360"/>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Information+Technology+Student;Python+%7C+Java+%7C+C%2B%2B;Game+Dev+Enthusiast;Always+learning.+Always+building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Information+Technology+Student;Python+%7C+Java+%7C+C%2B%2B;Game+Dev+Enthusiast;Always+learning.+Always+building.)](https://git.io/typing-svg)
 
 Second-year Information Technology student at Saigon University, Vietnam.
 Building things to learn — currently focused on Python, databases, and beginner-friendly game development.
-
-</div>
 
 ---
 
@@ -23,15 +21,11 @@ Building things to learn — currently focused on Python, databases, and beginne
 
 ## Stack
 
-<div align="center">
-
 [![Languages](https://skillicons.dev/icons?i=python,java,cpp)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=sqlite,git,github,vscode)](https://skillicons.dev)
 
 [![Game](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
-
-</div>
 
 ---
 
@@ -53,30 +47,15 @@ before moving on to more complex mechanics and systems.
 
 ## GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bjruly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjruly&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bjruly&theme=tokyonight&hide_border=true"/>
-
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bjruly&theme=tokyo-night&hide_border=true&area=true)](https://github.com/bjruly)
 
 ---
 
 ## Contact
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-bumjruly06%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bumjruly06@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-bjruly-181717?style=flat&logo=github&logoColor=white)](https://github.com/bjruly)
-
-</div>
+- Email: bumjruly06@gmail.com
+- GitHub: [@bjruly](https://github.com/bjruly)
 
 ---
 
-<div align="center">
-
 *Always learning. Always building.*
-
-</div>
