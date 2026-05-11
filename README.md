@@ -1,5 +1,9 @@
 # [bjruly (Trần Lê Gia Bảo)](https://github.com/bjruly)
 
+<img src="https://media.giphy.com/media/bw6rNitkD4o16WP5mF/giphy.gif" width="400"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Information+Technology+Student;Python+%7C+Java+%7C+C%2B%2B;Game+Dev+Enthusiast;Always+learning.+Always+building.)](https://git.io/typing-svg)
+
 Second-year Information Technology student at Saigon University, Vietnam.
 Building things to learn — currently focused on Python, databases, and beginner-friendly game development.
 
