@@ -1,4 +1,4 @@
-# Tran Le Gia Bao
+# [bjruly (Trần Lê Gia Bảo)](https://github.com/bjruly)
 
 Second-year Information Technology student at Saigon University, Vietnam.
 Building things to learn — currently focused on Python, databases, and beginner-friendly game development.
@@ -15,10 +15,11 @@ Building things to learn — currently focused on Python, databases, and beginne
 
 ## Stack
 
-    Languages      Python  /  Java  /  C++
-    Database       SQLite  /  SQL
-    Tools          Streamlit  /  Plotly  /  pandas
-    Game           Pygame  /  Unity (learning)
+[![Languages](https://skillicons.dev/icons?i=python,java,cpp)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=sqlite,git,github,vscode)](https://skillicons.dev)
+
+[![Game](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 
 ---
 
