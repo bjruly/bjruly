@@ -25,6 +25,10 @@ Building things to learn — currently focused on Python, databases, and beginne
 
 [![Languages](https://skillicons.dev/icons?i=python,java,cpp)](https://skillicons.dev)
 
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
 **Backend**
 
 [![Backend](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
@@ -37,9 +41,13 @@ Building things to learn — currently focused on Python, databases, and beginne
 
 [![Game](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 
-**Tools**
+**Source Code Management**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+[![SCM](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+**Tools & IDE**
+
+[![IDE](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
 
 ---
 
