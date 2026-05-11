@@ -21,11 +21,25 @@ Building things to learn — currently focused on Python, databases, and beginne
 
 ## Stack
 
+**Languages**
+
 [![Languages](https://skillicons.dev/icons?i=python,java,cpp)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=sqlite,git,github,vscode)](https://skillicons.dev)
+**Backend**
+
+[![Backend](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
+
+**Database**
+
+[![Database](https://skillicons.dev/icons?i=sqlite,mysql)](https://skillicons.dev)
+
+**Game Development**
 
 [![Game](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+
+**Tools**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 ---
 
