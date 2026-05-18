@@ -1,4 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=header&text=Welcome+to+my+profile!&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
 # [Trần Lê Gia Bảo](https://github.com/bjruly)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=bjruly&style=flat&color=70a5fd&label=Profile+Views)
 
 <div align="center">
 <img src="https://media.giphy.com/media/bw6rNitkD4o16WP5mF/giphy.gif" width="180"/>
