@@ -6,8 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=500&lines=print("Hi,+I'm+Gia+Bao!");print("IT+Student+@+Saigon+University");print("Python+%7C+Java+%7C+C%2B%2B");print("Game+Dev+Enthusiast");)](https://git.io/typing-svg)
 
-Second-year Information Technology student at Saigon University, Vietnam.
-Building things to learn — currently focused on Python, databases, and beginner-friendly game development.
+Information Technology student at Saigon University, passionate about building real-world software and game development.
+Currently growing through hands-on projects — where clean code meets practical impact.
 
 ---
 
@@ -80,4 +80,10 @@ before moving on to more complex mechanics and systems.
 
 ---
 
-*Always learning. Always building.*
+## Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/bjruly/bjruly/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=100&section=footer" width="100%"/>
