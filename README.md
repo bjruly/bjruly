@@ -4,6 +4,14 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=bjruly&style=flat&color=70a5fd&label=Profile+Views)
 
+---
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=bjruly&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/bjruly)
+
+---
+
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/bjruly)
+
 <div align="center">
 <img src="https://media.giphy.com/media/bw6rNitkD4o16WP5mF/giphy.gif" width="180"/>
 </div>
@@ -68,6 +76,12 @@ before moving on to more complex mechanics and systems.
 | Project | Description | Stack |
 |---|---|---|
 | [expense-tracker](https://github.com/bjruly/expense-tracker) | Personal finance tracker with analytics and budget alerts | Python, Streamlit, SQLite |
+
+---
+
+## WakaTime Stats
+
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=bjruly&theme=tokyonight&hide_border=true&layout=compact&custom_title=bjruly's+Coding+Activity)](https://wakatime.com/@bjruly)
 
 ---
 
