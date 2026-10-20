@@ -4,9 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=70A5FD&width=520&lines=print%28%22Hi%2C+I%27m+Gia+Bao%21%22%29;print%28%22IT+Student+%40+Saigon+University%22%29;print%28%22Python+%7C+Java+%7C+C%2B%2B+%7C+C%23%22%29;print%28%22Game+Dev+Enthusiast%22%29)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=bjruly&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=bjruly%2Fbjruly&label=PROFILE%20VIEWS&labelColor=%231a1b27&countColor=%2370a5fd&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/bjruly?style=for-the-badge&color=70a5fd&labelColor=1a1b27)
-![Repos](https://img.shields.io/github/search/bjruly/bjruly?style=for-the-badge&color=70a5fd&labelColor=1a1b27&label=&query=user%3Abjruly&logo=github)
 
 Information Technology student at Saigon University, passionate about building real-world software and game development.
 Currently growing through hands-on projects — where clean code meets practical impact.
@@ -104,12 +103,6 @@ before moving on to more complex mechanics and systems.
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bjruly&theme=tokyo-night&hide_border=true&area=true&custom_title=bjruly%27s%20Contribution%20Graph)](https://github.com/bjruly)
 
 </div>
-
----
-
-## WakaTime Stats
-
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=bjruly&theme=tokyonight&hide_border=true&layout=compact&custom_title=bjruly's+Coding+Activity)](https://wakatime.com/@bjruly)
 
 ---
 
